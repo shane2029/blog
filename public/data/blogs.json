@@ -1,0 +1,590 @@
+[
+    {
+      "id": 1,
+      "slug": "finding-my-voice",
+      "title": "Finding My Voice: A Journey of Self-Discovery Through Writing",
+      "excerpt": "Join me as I share my personal journey of finding my authentic voice through writing, the challenges I faced, and the lessons I learned along the way.",
+      "featured": true,
+      "date": "2025-04-28",
+      "readTime": 8,
+      "category": "Personal Growth",
+      "coverImage": "/images/blog/finding-voice-cover.jpg",
+      "gallery": [
+        "/images/blog/finding-voice-1.jpg",
+        "/images/blog/finding-voice-2.jpg",
+        "/images/blog/finding-voice-3.jpg"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Writing has always been my sanctuary, a place where I could be completely myself without fear of judgment. But finding my authentic voice wasn't an overnight journey. It took years of practice, self-reflection, and countless drafts before I could truly express myself through words."
+        },
+        {
+          "type": "paragraph",
+          "text": "I remember the first time I shared my writing with someone else. My hands were shaking, and my heart was pounding. Would they understand what I was trying to say? Would they connect with my words? That moment of vulnerability was terrifying, but it was also the beginning of something beautiful."
+        },
+        {
+          "type": "image",
+          "src": "/images/blog/finding-voice-1.jpg",
+          "alt": "My first writing notebook",
+          "caption": "The notebook where I first started finding my voice"
+        },
+        {
+          "type": "paragraph",
+          "text": "Through trial and error, I discovered that my voice wasn't something I needed to create - it was already within me. I just needed to learn how to listen to it. The more I wrote, the more I understood myself and the world around me."
+        },
+        {
+          "type": "quote",
+          "text": "Your voice is your most powerful tool. Don't be afraid to use it.",
+          "author": "Shane Almae E. Herrera"
+        },
+        {
+          "type": "paragraph",
+          "text": "Today, I encourage everyone to find their voice through writing. Whether it's through journaling, poetry, or storytelling, writing can be a powerful tool for self-discovery and personal growth."
+        }
+      ],
+      "author": {
+        "name": "Shane Almae E. Herrera",
+        "role": "Writer & Creative",
+        "avatar": "/images/shane-avatar.jpg"
+      }
+    },
+    {
+      "id": 2,
+      "slug": "creative-writing-tips",
+      "title": "10 Creative Writing Tips That Transformed My Process",
+      "excerpt": "Discover the writing techniques and practices that helped me overcome creative blocks and develop a more fulfilling writing routine.",
+      "featured": false,
+      "date": "2025-04-25",
+      "readTime": 7,
+      "category": "Creative Writing",
+      "coverImage": "/images/blog/writing-tips-cover.jpg",
+      "gallery": [
+        "/images/blog/writing-tips-1.jpg",
+        "/images/blog/writing-tips-2.jpg",
+        "/images/blog/writing-tips-3.jpg"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Writing is both an art and a craft. While inspiration is important, having a solid routine and set of techniques can make all the difference in your creative process. Here are the tips that have transformed my writing journey:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Write first thing in the morning, before the world's noise creeps in",
+            "Keep a notebook with you at all times - inspiration can strike anywhere",
+            "Set small, achievable writing goals",
+            "Read widely and diversely",
+            "Don't edit while you write - let the words flow freely",
+            "Take regular breaks to recharge your creative energy",
+            "Experiment with different writing environments",
+            "Join a writing community for support and feedback",
+            "Practice free writing to overcome blocks",
+            "Celebrate small writing victories"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/blog/writing-tips-1.jpg",
+          "alt": "My writing space",
+          "caption": "My favorite writing spot, surrounded by inspiration"
+        },
+        {
+          "type": "paragraph",
+          "text": "Remember, there's no one-size-fits-all approach to writing. What works for me might not work for you, and that's okay. The key is to experiment and find what helps you create your best work."
+        }
+      ],
+      "author": {
+        "name": "Shane Almae E. Herrera",
+        "role": "Writer & Creative",
+        "avatar": "/images/shane-avatar.jpg"
+      }
+    },
+    {
+      "id": 3,
+      "slug": "life-lessons",
+      "title": "Life Lessons from My Grandmother's Kitchen",
+      "excerpt": "A heartfelt reflection on the wisdom and warmth I found in my grandmother's kitchen, and how these memories continue to shape my life and writing.",
+      "featured": false,
+      "date": "2025-04-22",
+      "readTime": 9,
+      "category": "Life Stories",
+      "coverImage": "/images/blog/grandmother-kitchen-cover.jpg",
+      "gallery": [
+        "/images/blog/grandmother-kitchen-1.jpg",
+        "/images/blog/grandmother-kitchen-2.jpg",
+        "/images/blog/grandmother-kitchen-3.jpg"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "My grandmother's kitchen was more than just a place where meals were prepared. It was a sanctuary of stories, wisdom, and love. The scent of freshly baked bread and simmering stews still brings back memories of the lessons I learned there."
+        },
+        {
+          "type": "image",
+          "src": "/images/blog/grandmother-kitchen-1.jpg",
+          "alt": "Grandmother's kitchen",
+          "caption": "The heart of our home, where stories were shared and lessons were learned"
+        },
+        {
+          "type": "paragraph",
+          "text": "One of my earliest memories is sitting at the kitchen table, watching my grandmother knead dough while she told stories about her childhood. She taught me that cooking, like writing, requires patience, attention to detail, and a dash of creativity."
+        },
+        {
+          "type": "quote",
+          "text": "Life, like cooking, is about finding the right balance of ingredients.",
+          "author": "My Grandmother"
+        },
+        {
+          "type": "paragraph",
+          "text": "These kitchen conversations shaped not only my love for storytelling but also my understanding of family, tradition, and the importance of passing down knowledge through generations."
+        }
+      ],
+      "author": {
+        "name": "Shane Almae E. Herrera",
+        "role": "Writer & Creative",
+        "avatar": "/images/shane-avatar.jpg"
+      }
+    },
+    {
+      "id": 4,
+      "slug": "writing-routine",
+      "title": "Building a Writing Routine That Works for You",
+      "excerpt": "Learn how I developed a sustainable writing routine that balances creativity with daily life, and how you can create your own personalized approach.",
+      "featured": false,
+      "date": "2025-04-18",
+      "readTime": 6,
+      "category": "Creative Writing",
+      "coverImage": "/images/blog/writing-routine-cover.jpg",
+      "gallery": [
+        "/images/blog/writing-routine-1.jpg",
+        "/images/blog/writing-routine-2.jpg",
+        "/images/blog/writing-routine-3.jpg"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Creating a writing routine that works for you is essential for consistent creative output. Here's how I developed mine:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Identify your most productive time of day",
+            "Create a dedicated writing space",
+            "Set realistic writing goals",
+            "Eliminate distractions",
+            "Track your progress",
+            "Be flexible and kind to yourself"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/blog/writing-routine-1.jpg",
+          "alt": "My writing desk",
+          "caption": "My writing space, designed for maximum creativity"
+        },
+        {
+          "type": "paragraph",
+          "text": "Remember, your writing routine should serve you, not the other way around. Don't be afraid to adjust it as your life and needs change."
+        }
+      ],
+      "author": {
+        "name": "Shane Almae E. Herrera",
+        "role": "Writer & Creative",
+        "avatar": "/images/shane-avatar.jpg"
+      }
+    },
+    {
+      "id": 5,
+      "slug": "finding-inspiration",
+      "title": "Finding Inspiration in Everyday Moments",
+      "excerpt": "Explore how ordinary moments can become extraordinary sources of inspiration for your writing and creative expression.",
+      "featured": false,
+      "date": "2025-04-15",
+      "readTime": 7,
+      "category": "Inspiration",
+      "coverImage": "/images/blog/inspiration-cover.jpg",
+      "gallery": [
+        "/images/blog/inspiration-1.jpg",
+        "/images/blog/inspiration-2.jpg",
+        "/images/blog/inspiration-3.jpg"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Inspiration is all around us, often hiding in plain sight. The key is learning to see the extraordinary in the ordinary."
+        },
+        {
+          "type": "image",
+          "src": "/images/blog/inspiration-1.jpg",
+          "alt": "Morning coffee ritual",
+          "caption": "My morning coffee ritual - a daily source of inspiration"
+        },
+        {
+          "type": "paragraph",
+          "text": "I find inspiration in the smallest moments: the way sunlight filters through leaves, the sound of rain on my window, or the conversations I overhear in coffee shops. These everyday experiences often become the seeds of my stories."
+        },
+        {
+          "type": "quote",
+          "text": "The world is full of poetry. The air is living with its spirit.",
+          "author": "James Gates Percival"
+        },
+        {
+          "type": "paragraph",
+          "text": "By staying present and observant, we can find endless inspiration in our daily lives. The challenge is to capture these moments before they slip away."
+        }
+      ],
+      "author": {
+        "name": "Shane Almae E. Herrera",
+        "role": "Writer & Creative",
+        "avatar": "/images/shane-avatar.jpg"
+      }
+    },
+    {
+      "id": 6,
+      "slug": "personal-growth",
+      "title": "The Power of Journaling for Personal Growth",
+      "excerpt": "Discover how journaling has helped me navigate life's challenges and celebrate its joys, with practical tips for starting your own journaling practice.",
+      "featured": false,
+      "date": "2025-04-10",
+      "readTime": 10,
+      "category": "Personal Growth",
+      "coverImage": "/images/blog/journaling-cover.jpg",
+      "gallery": [
+        "/images/blog/journaling-1.jpg",
+        "/images/blog/journaling-2.jpg",
+        "/images/blog/journaling-3.jpg"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Journaling has been my constant companion through life's ups and downs. It's a practice that has helped me grow, heal, and understand myself better."
+        },
+        {
+          "type": "image",
+          "src": "/images/blog/journaling-1.jpg",
+          "alt": "My journal collection",
+          "caption": "My collection of journals, each one telling a different chapter of my story"
+        },
+        {
+          "type": "paragraph",
+          "text": "Through journaling, I've learned to:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Process emotions and experiences",
+            "Track personal growth and patterns",
+            "Generate new ideas and insights",
+            "Practice gratitude",
+            "Set and achieve goals",
+            "Develop self-awareness"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Whether you're new to journaling or looking to deepen your practice, remember that there's no right or wrong way to do it. The most important thing is to show up and be honest with yourself."
+        }
+      ],
+      "author": {
+        "name": "Shane Almae E. Herrera",
+        "role": "Writer & Creative",
+        "avatar": "/images/shane-avatar.jpg"
+      }
+    },
+    {
+      "id": 7,
+      "slug": "creative-process",
+      "title": "My Creative Process: From Idea to Finished Piece",
+      "excerpt": "A behind-the-scenes look at how I develop my writing from initial inspiration to final draft, including the tools and techniques that help me along the way.",
+      "featured": false,
+      "date": "2025-04-05",
+      "readTime": 8,
+      "category": "Creative Writing",
+      "coverImage": "/images/blog/creative-process-cover.jpg",
+      "gallery": [
+        "/images/blog/creative-process-1.jpg",
+        "/images/blog/creative-process-2.jpg",
+        "/images/blog/creative-process-3.jpg"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Every writer has their own creative process. Here's a glimpse into mine:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Capture ideas in my notebook",
+            "Research and gather inspiration",
+            "Create a rough outline",
+            "Write the first draft freely",
+            "Take a break before editing",
+            "Revise and refine",
+            "Get feedback from trusted readers",
+            "Final polish and proofread"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/blog/creative-process-1.jpg",
+          "alt": "My writing tools",
+          "caption": "The tools that help bring my ideas to life"
+        },
+        {
+          "type": "paragraph",
+          "text": "Remember that your creative process will evolve over time. What matters is finding what works for you and being open to trying new approaches."
+        }
+      ],
+      "author": {
+        "name": "Shane Almae E. Herrera",
+        "role": "Writer & Creative",
+        "avatar": "/images/shane-avatar.jpg"
+      }
+    },
+    {
+      "id": 8,
+      "slug": "life-story",
+      "title": "The Day I Found My Passion for Writing",
+      "excerpt": "A personal story about the moment I discovered my love for writing and how it changed the course of my life.",
+      "featured": false,
+      "date": "2025-04-02",
+      "readTime": 9,
+      "category": "Life Stories",
+      "coverImage": "/images/blog/passion-story-cover.jpg",
+      "gallery": [
+        "/images/blog/passion-story-1.jpg",
+        "/images/blog/passion-story-2.jpg",
+        "/images/blog/passion-story-3.jpg"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "I remember the exact moment I fell in love with writing. It was a rainy afternoon, and I was sitting in my high school English class. Our teacher had given us a creative writing assignment, and for the first time, I felt truly free to express myself."
+        },
+        {
+          "type": "image",
+          "src": "/images/blog/passion-story-1.jpg",
+          "alt": "My first writing award",
+          "caption": "The moment that changed everything"
+        },
+        {
+          "type": "paragraph",
+          "text": "That assignment turned into a passion that has shaped my life. Writing became my way of making sense of the world, of connecting with others, and of discovering who I am."
+        },
+        {
+          "type": "quote",
+          "text": "Writing is the painting of the voice.",
+          "author": "Voltaire"
+        },
+        {
+          "type": "paragraph",
+          "text": "Looking back, I'm grateful for that rainy afternoon and the teacher who saw something in my words that I hadn't yet discovered in myself."
+        }
+      ],
+      "author": {
+        "name": "Shane Almae E. Herrera",
+        "role": "Writer & Creative",
+        "avatar": "/images/shane-avatar.jpg"
+      }
+    },
+    {
+      "id": 9,
+      "slug": "writing-community",
+      "title": "Building a Supportive Writing Community",
+      "excerpt": "Learn how connecting with other writers has enriched my creative journey and how you can find or build your own writing community.",
+      "featured": false,
+      "date": "2025-03-28",
+      "readTime": 7,
+      "category": "Personal Growth",
+      "coverImage": "/images/blog/writing-community-cover.jpg",
+      "gallery": [
+        "/images/blog/writing-community-1.jpg",
+        "/images/blog/writing-community-2.jpg",
+        "/images/blog/writing-community-3.jpg"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Writing can be a solitary pursuit, but it doesn't have to be lonely. Building a supportive writing community has been one of the most rewarding aspects of my creative journey."
+        },
+        {
+          "type": "image",
+          "src": "/images/blog/writing-community-1.jpg",
+          "alt": "Writing group meeting",
+          "caption": "Our monthly writing group meeting"
+        },
+        {
+          "type": "paragraph",
+          "text": "Here are some ways to find or build your writing community:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Join local writing groups",
+            "Participate in online writing communities",
+            "Attend writing workshops and conferences",
+            "Start your own writing group",
+            "Connect with writers on social media",
+            "Share your work and give feedback to others"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A supportive writing community can provide encouragement, feedback, and accountability - all essential elements for growth as a writer."
+        }
+      ],
+      "author": {
+        "name": "Shane Almae E. Herrera",
+        "role": "Writer & Creative",
+        "avatar": "/images/shane-avatar.jpg"
+      }
+    },
+    {
+      "id": 10,
+      "slug": "creative-inspiration",
+      "title": "Finding Creative Inspiration in Nature",
+      "excerpt": "Discover how connecting with nature has become an essential part of my creative process and how it can inspire your own writing.",
+      "featured": false,
+      "date": "2025-03-25",
+      "readTime": 8,
+      "category": "Inspiration",
+      "coverImage": "/images/blog/nature-inspiration-cover.jpg",
+      "gallery": [
+        "/images/blog/nature-inspiration-1.jpg",
+        "/images/blog/nature-inspiration-2.jpg",
+        "/images/blog/nature-inspiration-3.jpg"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Nature has always been my greatest muse. There's something about being surrounded by trees, listening to birdsong, or watching the waves that unlocks my creativity."
+        },
+        {
+          "type": "image",
+          "src": "/images/blog/nature-inspiration-1.jpg",
+          "alt": "Writing in nature",
+          "caption": "My favorite spot for writing and reflection"
+        },
+        {
+          "type": "paragraph",
+          "text": "When I'm feeling stuck or uninspired, I know it's time to step outside. Whether it's a walk in the park or a weekend camping trip, nature has a way of clearing my mind and sparking new ideas."
+        },
+        {
+          "type": "quote",
+          "text": "In nature, nothing is perfect and everything is perfect.",
+          "author": "Alice Walker"
+        },
+        {
+          "type": "paragraph",
+          "text": "I encourage every writer to spend time in nature. You might be surprised by the stories and ideas that emerge when you're surrounded by the beauty of the natural world."
+        }
+      ],
+      "author": {
+        "name": "Shane Almae E. Herrera",
+        "role": "Writer & Creative",
+        "avatar": "/images/shane-avatar.jpg"
+      }
+    },
+    {
+      "id": 11,
+      "slug": "writing-challenges",
+      "title": "Overcoming Common Writing Challenges",
+      "excerpt": "Practical advice for dealing with writer's block, self-doubt, and other common challenges that writers face.",
+      "featured": false,
+      "date": "2025-03-20",
+      "readTime": 6,
+      "category": "Creative Writing",
+      "coverImage": "/images/blog/writing-challenges-cover.jpg",
+      "gallery": [
+        "/images/blog/writing-challenges-1.jpg",
+        "/images/blog/writing-challenges-2.jpg",
+        "/images/blog/writing-challenges-3.jpg"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Every writer faces challenges. Here's how I've learned to overcome some of the most common ones:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Writer's block: Take a break, change your environment, or try free writing",
+            "Self-doubt: Remember why you started writing in the first place",
+            "Perfectionism: Allow yourself to write badly first",
+            "Time management: Set realistic goals and stick to them",
+            "Criticism: Learn to separate constructive feedback from negativity",
+            "Comparison: Focus on your unique voice and journey"
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/images/blog/writing-challenges-1.jpg",
+          "alt": "Overcoming challenges",
+          "caption": "My collection of writing tools and resources"
+        },
+        {
+          "type": "paragraph",
+          "text": "Remember that challenges are part of the writing journey. Each one you overcome makes you a stronger, more resilient writer."
+        }
+      ],
+      "author": {
+        "name": "Shane Almae E. Herrera",
+        "role": "Writer & Creative",
+        "avatar": "/images/shane-avatar.jpg"
+      }
+    },
+    {
+      "id": 12,
+      "slug": "personal-reflection",
+      "title": "The Power of Personal Reflection in Writing",
+      "excerpt": "Explore how personal reflection has deepened my writing practice and helped me connect more authentically with my readers.",
+      "featured": false,
+      "date": "2025-03-15",
+      "readTime": 7,
+      "category": "Personal Growth",
+      "coverImage": "/images/blog/reflection-cover.jpg",
+      "gallery": [
+        "/images/blog/reflection-1.jpg",
+        "/images/blog/reflection-2.jpg",
+        "/images/blog/reflection-3.jpg"
+      ],
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Personal reflection has been the key to developing my authentic voice as a writer. By taking time to reflect on my experiences, thoughts, and emotions, I've been able to create more meaningful and relatable content."
+        },
+        {
+          "type": "image",
+          "src": "/images/blog/reflection-1.jpg",
+          "alt": "Reflection journal",
+          "caption": "My reflection journal, where I process thoughts and ideas"
+        },
+        {
+          "type": "paragraph",
+          "text": "Here are some reflection practices that have helped me:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Daily journaling",
+            "Meditation and mindfulness",
+            "Regular writing retreats",
+            "Conversations with other writers",
+            "Reading and analyzing other writers' work",
+            "Setting aside dedicated reflection time"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Through reflection, I've learned that the most powerful writing comes from a place of authenticity and self-awareness."
+        }
+      ],
+      "author": {
+        "name": "Shane Almae E. Herrera",
+        "role": "Writer & Creative",
+        "avatar": "/images/shane-avatar.jpg"
+      }
+    }
+  ]
