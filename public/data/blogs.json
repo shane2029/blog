@@ -8,11 +8,14 @@
     "date": "2025-04-07",
     "readTime": 8,
     "category": "Travel",
-    "coverImage": "/images/blog/manila-arrival-cover.jpg",
+    "coverImage": "/images/blog/day1/9eecbab0-9910-4107-aeaf-63bfbdae7db9.jpg",
     "gallery": [
-      "/images/blog/manila-arrival-1.jpg",
-      "/images/blog/manila-arrival-2.jpg",
-      "/images/blog/manila-arrival-3.jpg"
+      "/images/blog/day1/fe2ada1e-de16-43a7-ab47-6419ebd0eaaf.jpg",
+      "/images/blog/day1/232b12dd-ed01-4e79-b063-c73770ba703e.jpg",
+      "/images/blog/day1/20227da0-af72-45f1-adc8-cfb19b87f818.jpg",
+      "/images/blog/day1/f91f65a7-d8e3-492d-8133-7a85cee03a2b.jpg",
+      "/images/blog/day1/9eecbab0-9910-4107-aeaf-63bfbdae7db9.jpg"
+
     ],
     "content": [
       {
@@ -72,11 +75,21 @@
     "date": "2025-04-08",
     "readTime": 9,
     "category": "Technology",
-    "coverImage": "/images/blog/sbma-cover.jpg",
+    "coverImage": "/images/blog/day2/a2a608cd-7588-4be1-9afe-8574f09bd17c.jpg",
     "gallery": [
-      "/images/blog/sbma-1.jpg",
-      "/images/blog/sbma-2.jpg",
-      "/images/blog/sbma-3.jpg"
+      "/images/blog/day2/6ef6b7ea-b2e6-47e4-9c04-053c145b449b.jpg",
+      "/images/blog/day2/36f30ead-91b6-467d-a97a-16bcb666976f.jpg",
+      "/images/blog/day2/6617ef21-9086-4771-8598-d1c6074e0041.jpg",
+      "/images/blog/day2/31819cc6-249f-4ab9-80ba-9f2844f91320.jpg",
+      "/images/blog/day2/a2a608cd-7588-4be1-9afe-8574f09bd17c.jpg",
+      "/images/blog/day2/a3ff27bc-c100-40d9-a39f-84430068d23f.jpg",
+      "/images/blog/day2/a4dc5b6c-0e01-4604-b481-3c43b5f7e28e.jpg",
+      "/images/blog/day2/aead068a-ac53-4067-9277-55f675d11e5a.jpg",
+      "/images/blog/day2/b2554885-aadb-4e89-949a-a9dff4ddbefd.jpg",
+      "/images/blog/day2/aead068a-ac53-4067-9277-55f675d11e5a.jpg",
+      "/images/blog/day2/b2554885-aadb-4e89-949a-a9dff4ddbefd.jpg",
+      "/images/blog/day2/e8141174-3d36-4b3a-9a1c-b80a5ab7cc8d.jpg"
+
     ],
     "content": [
       {
@@ -136,11 +149,31 @@
     "date": "2025-04-09",
     "readTime": 7,
     "category": "Culture & Technology",
-    "coverImage": "/images/blog/museums-cover.jpg",
+    "coverImage": "/images/blog/day3/cdfa8d8b-8555-4967-bd40-1c8ec91ce018.jpg",
     "gallery": [
-      "/images/blog/museums-1.jpg",
-      "/images/blog/museums-2.jpg",
-      "/images/blog/museums-3.jpg"
+      "/images/blog/day3/3ab93bd8-1894-49fe-8435-b4eb94685e27.jpg",
+      "/images/blog/day3/4e5d96c5-370d-4fed-8c91-de4f0ae95078.jpg",
+      "/images/blog/day3/8efc0637-0599-4ded-98b7-0361b948a390.jpg",
+      "/images/blog/day3/23d7d33a-596d-4e25-a8ce-3fa0cb119cbd.jpg",
+      "/images/blog/day3/56f50d02-0dac-458e-bcce-6e78feea727c.jpg",
+      "/images/blog/day3/107f7548-987e-455c-9afe-9d9afd0f8ee2.jpg",
+      "/images/blog/day3/837bdf93-b814-4f10-93dc-48e2f78deb89.jpg",
+      "/images/blog/day3/880e0a88-d792-46ce-8f34-fa94e2c86018.jpg",
+      "/images/blog/day3/9382e0e0-ced4-4c76-a5d2-474be2d1afcd.jpg",
+      "/images/blog/day3/68675432-bb4e-47bd-ba0c-237fd50e4cae.jpg",
+      "/images/blog/day3/ae974354-8f27-4327-ae83-429ca12ca443.jpg",
+      "/images/blog/day3/b3d0d72e-6851-4820-9616-5bba7b4e60b2.jpg",
+      "/images/blog/day3/c4e858de-3402-4eec-ad5e-048c7831e6b6.jpg",
+      "/images/blog/day3/c8d75395-2acf-4fe1-929d-ac51a440b1a5.jpg",
+      "/images/blog/day3/c42f9378-7c8a-4fa0-ae53-1406dc257354.jpg",
+      "/images/blog/day3/c467cf68-9705-46b3-8423-4671146fc105.jpg",
+      "/images/blog/day3/c8101095-7012-485f-a84d-69edfa27db4c.jpg",
+      "/images/blog/day3/cdfa8d8b-8555-4967-bd40-1c8ec91ce018.jpg",
+      "/images/blog/day3/e0470f27-89b1-46a0-a057-1094c07daf1c.jpg",
+      "/images/blog/day3/ecab673c-3f1c-458d-844e-c9281a295ca6.jpg",
+      "/images/blog/day3/fa88bb88-3186-42bf-ab32-d01f1aff6f61.jpg",
+      "/images/blog/day3/fdabc495-c035-487e-9b63-22ac7a268239.jpg"
+
     ],
     "content": [
       {
