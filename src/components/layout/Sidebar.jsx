@@ -8,18 +8,39 @@ const Sidebar = ({ onSearch }) => {
   const [searchQuery, setSearchQuery] = useState('')
   
   useEffect(() => {
-    // In a real application, these would be fetched from an API
-    // For this example, we're setting them directly
+    // Fetch blog data to dynamically generate categories
+    const fetchCategories = async () => {
+      try {
+        const response = await fetch('/data/blogs.json')
+        if (!response.ok) throw new Error('Failed to fetch blog data')
+        
+        const data = await response.json()
+        
+        // Extract categories and count occurrences
+        const categoryMap = {}
+        data.forEach(post => {
+          const category = post.category
+          categoryMap[category] = (categoryMap[category] || 0) + 1
+        })
+        
+        // Convert to array format needed for display
+        const categoryArray = Object.entries(categoryMap).map(([name, count], index) => ({
+          id: index + 1,
+          name,
+          count
+        }))
+        
+        // Sort by count (descending)
+        categoryArray.sort((a, b) => b.count - a.count)
+        
+        setCategories(categoryArray)
+      } catch (error) {
+        console.error('Error fetching categories:', error)
+        setCategories([])
+      }
+    }
     
-    // Fetch categories
-    setCategories([
-      { id: 1, name: 'Business Strategy', count: 12 },
-      { id: 2, name: 'Marketing', count: 8 },
-      { id: 3, name: 'Finance', count: 7 },
-      { id: 4, name: 'Technology', count: 10 },
-      { id: 5, name: 'Leadership', count: 6 },
-      { id: 6, name: 'Entrepreneurship', count: 9 }
-    ])
+    fetchCategories()
     
     // Fetch recent posts
     const fetchRecentPosts = async () => {
@@ -42,18 +63,18 @@ const Sidebar = ({ onSearch }) => {
     
     fetchRecentPosts()
     
-    // Fetch tags
+    // Fetch tags - updated to match the blog content themes
     setTags([
-      { id: 1, name: 'Strategy' },
-      { id: 2, name: 'Growth' },
-      { id: 3, name: 'Innovation' },
-      { id: 4, name: 'Management' },
-      { id: 5, name: 'Digital' },
-      { id: 6, name: 'Analytics' },
-      { id: 7, name: 'Startup' },
-      { id: 8, name: 'Investment' },
-      { id: 9, name: 'Leadership' },
-      { id: 10, name: 'Marketing' }
+      { id: 1, name: 'Writing' },
+      { id: 2, name: 'Self-Discovery' },
+      { id: 3, name: 'Creativity' },
+      { id: 4, name: 'IT Education' },
+      { id: 5, name: 'Manila' },
+      { id: 6, name: 'Baguio' },
+      { id: 7, name: 'Journaling' },
+      { id: 8, name: 'Nature' },
+      { id: 9, name: 'Museums' },
+      { id: 10, name: 'Technology' }
     ])
   }, [])
   
@@ -131,7 +152,7 @@ const Sidebar = ({ onSearch }) => {
             <li key={category.id} className="flex justify-between items-center">
               <a 
                 href="#" 
-                className="text-slate-600 hover:text-indigo-600 transition-colors"
+                className="text-slate-600 hover:text-rose-600 transition-colors"
               >
                 {category.name}
               </a>
@@ -157,7 +178,7 @@ const Sidebar = ({ onSearch }) => {
                 />
               </div>
               <div>
-                <h4 className="font-medium text-sm hover:text-indigo-600 transition-colors line-clamp-2">
+                <h4 className="font-medium text-sm hover:text-rose-600 transition-colors line-clamp-2">
                   <Link to={`/blog/${post.slug}`}>{post.title}</Link>
                 </h4>
                 <p className="text-xs text-slate-500 mt-1">
@@ -177,7 +198,7 @@ const Sidebar = ({ onSearch }) => {
             <a 
               key={tag.id} 
               href="#" 
-              className="inline-block px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-md hover:bg-indigo-100 hover:text-indigo-700 transition-colors"
+              className="inline-block px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-md hover:bg-rose-100 hover:text-rose-700 transition-colors"
             >
               {tag.name}
             </a>
@@ -185,26 +206,17 @@ const Sidebar = ({ onSearch }) => {
         </div>
       </div>
       
-      {/* Newsletter */}
-      <div className="bg-indigo-600 rounded-lg shadow-md p-5 text-white">
-        <h3 className="text-lg font-semibold mb-3">Subscribe to Our Newsletter</h3>
-        <p className="text-indigo-100 text-sm mb-4">
-          Get the latest business insights and tips delivered to your inbox.
+
+      
+      {/* Field Trip Series Highlight */}
+      <div className="bg-gradient-to-r from-slate-700 to-slate-900 rounded-lg shadow-md p-5 text-white">
+        <h3 className="text-lg font-semibold mb-3">IT Educational Trip Series</h3>
+        <p className="text-slate-200 text-sm mb-4">
+          Follow my 7-day journey exploring technology infrastructure and cultural sites across Luzon.
         </p>
-        <form className="space-y-3">
-          <input 
-            type="email" 
-            placeholder="Your email address" 
-            className="w-full px-3 py-2 bg-white text-slate-800 rounded-md focus:outline-none"
-            required
-          />
-          <button 
-            type="submit" 
-            className="w-full px-4 py-2 bg-indigo-700 text-white rounded-md hover:bg-indigo-800 transition-colors"
-          >
-            Subscribe
-          </button>
-        </form>
+        <Link to="/field-trip-series" className="inline-block px-4 py-2 bg-rose-600 text-white rounded-md hover:bg-rose-700 transition-colors text-sm font-medium">
+          Read the Series
+        </Link>
       </div>
     </div>
   )
