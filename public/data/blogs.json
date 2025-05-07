@@ -1,590 +1,476 @@
 [
-    {
-      "id": 1,
-      "slug": "finding-my-voice",
-      "title": "Finding My Voice: A Journey of Self-Discovery Through Writing",
-      "excerpt": "Join me as I share my personal journey of finding my authentic voice through writing, the challenges I faced, and the lessons I learned along the way.",
-      "featured": true,
-      "date": "2025-04-28",
-      "readTime": 8,
-      "category": "Personal Growth",
-      "coverImage": "/images/blog/finding-voice-cover.jpg",
-      "gallery": [
-        "/images/blog/finding-voice-1.jpg",
-        "/images/blog/finding-voice-2.jpg",
-        "/images/blog/finding-voice-3.jpg"
-      ],
-      "content": [
-        {
-          "type": "paragraph",
-          "text": "Writing has always been my sanctuary, a place where I could be completely myself without fear of judgment. But finding my authentic voice wasn't an overnight journey. It took years of practice, self-reflection, and countless drafts before I could truly express myself through words."
-        },
-        {
-          "type": "paragraph",
-          "text": "I remember the first time I shared my writing with someone else. My hands were shaking, and my heart was pounding. Would they understand what I was trying to say? Would they connect with my words? That moment of vulnerability was terrifying, but it was also the beginning of something beautiful."
-        },
-        {
-          "type": "image",
-          "src": "/images/blog/finding-voice-1.jpg",
-          "alt": "My first writing notebook",
-          "caption": "The notebook where I first started finding my voice"
-        },
-        {
-          "type": "paragraph",
-          "text": "Through trial and error, I discovered that my voice wasn't something I needed to create - it was already within me. I just needed to learn how to listen to it. The more I wrote, the more I understood myself and the world around me."
-        },
-        {
-          "type": "quote",
-          "text": "Your voice is your most powerful tool. Don't be afraid to use it.",
-          "author": "Shane Almae E. Herrera"
-        },
-        {
-          "type": "paragraph",
-          "text": "Today, I encourage everyone to find their voice through writing. Whether it's through journaling, poetry, or storytelling, writing can be a powerful tool for self-discovery and personal growth."
-        }
-      ],
-      "author": {
-        "name": "Shane Almae E. Herrera",
-        "role": "Writer & Creative",
-        "avatar": "/images/shane-avatar.jpg"
+  {
+    "id": 13,
+    "slug": "manila-arrival-day",
+    "title": "First Day in Manila: Beginning Our IT Educational Journey",
+    "excerpt": "Join me as I share our exciting first day in Manila, from our arrival to exploring historical sites and experiencing the vibrant energy of the capital city.",
+    "featured": true,
+    "date": "2025-04-07",
+    "readTime": 8,
+    "category": "Travel",
+    "coverImage": "/images/blog/manila-arrival-cover.jpg",
+    "gallery": [
+      "/images/blog/manila-arrival-1.jpg",
+      "/images/blog/manila-arrival-2.jpg",
+      "/images/blog/manila-arrival-3.jpg"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Today marked the beginning of our IT Educational Field Trip with Western Mindanao State University. The excitement was palpable as we landed at Manila via Cebu Pacific, ready to embark on what promises to be a transformative learning experience."
+      },
+      {
+        "type": "paragraph",
+        "text": "After checking in at the DJM Dormitory and enjoying lunch, we set out for our city tour. As a writer, I found myself captivated by the rich tapestry of history and culture that Manila offers. Walking through Intramuros felt like stepping back in time, the old stone walls whispering stories of the past."
+      },
+      {
+        "type": "image",
+        "src": "/images/blog/manila-arrival-1.jpg",
+        "alt": "Intramuros historical walls",
+        "caption": "The historic walls of Intramuros, a glimpse into Manila's colonial past"
+      },
+      {
+        "type": "paragraph",
+        "text": "Fort Santiago stood proud against the backdrop of modern Manila, a testament to the resilience of Filipino heritage. The contrast between the fort's ancient stonework and the gleaming skyscrapers visible beyond its walls offered a powerful visual metaphor for the Philippines' journey through time."
+      },
+      {
+        "type": "paragraph",
+        "text": "Our visit to Rizal Park was particularly moving. Standing where our national hero once stood, I felt a profound connection to our country's struggle for identity and independence. As technology students, it's easy to get caught up in the future, but today reminded us of the importance of honoring our past."
+      },
+      {
+        "type": "image",
+        "src": "/images/blog/manila-arrival-2.jpg",
+        "alt": "Rizal Park monument",
+        "caption": "Paying respects at Rizal Park, a moment of reflection on our nation's journey"
+      },
+      {
+        "type": "paragraph",
+        "text": "The Manila Cathedral and San Agustin Church showcased the architectural brilliance of earlier generations. I found myself wondering what future technological marvels our generation might leave behind. Will they stand the test of time as these structures have?"
+      },
+      {
+        "type": "quote",
+        "text": "To understand where we're going, we must first understand where we've been.",
+        "author": "Shane Almae E. Herrera"
+      },
+      {
+        "type": "paragraph",
+        "text": "Our day concluded with a visit to the Mall of Asia, where we experienced the more contemporary side of Manila. The juxtaposition of our historical tour with this modern commercial hub perfectly encapsulated the Philippines' position at the crossroads of tradition and innovation. As we returned to the dormitory for dinner, I couldn't help but feel excited for what the coming days will bring."
       }
-    },
-    {
-      "id": 2,
-      "slug": "creative-writing-tips",
-      "title": "10 Creative Writing Tips That Transformed My Process",
-      "excerpt": "Discover the writing techniques and practices that helped me overcome creative blocks and develop a more fulfilling writing routine.",
-      "featured": false,
-      "date": "2025-04-25",
-      "readTime": 7,
-      "category": "Creative Writing",
-      "coverImage": "/images/blog/writing-tips-cover.jpg",
-      "gallery": [
-        "/images/blog/writing-tips-1.jpg",
-        "/images/blog/writing-tips-2.jpg",
-        "/images/blog/writing-tips-3.jpg"
-      ],
-      "content": [
-        {
-          "type": "paragraph",
-          "text": "Writing is both an art and a craft. While inspiration is important, having a solid routine and set of techniques can make all the difference in your creative process. Here are the tips that have transformed my writing journey:"
-        },
-        {
-          "type": "list",
-          "items": [
-            "Write first thing in the morning, before the world's noise creeps in",
-            "Keep a notebook with you at all times - inspiration can strike anywhere",
-            "Set small, achievable writing goals",
-            "Read widely and diversely",
-            "Don't edit while you write - let the words flow freely",
-            "Take regular breaks to recharge your creative energy",
-            "Experiment with different writing environments",
-            "Join a writing community for support and feedback",
-            "Practice free writing to overcome blocks",
-            "Celebrate small writing victories"
-          ]
-        },
-        {
-          "type": "image",
-          "src": "/images/blog/writing-tips-1.jpg",
-          "alt": "My writing space",
-          "caption": "My favorite writing spot, surrounded by inspiration"
-        },
-        {
-          "type": "paragraph",
-          "text": "Remember, there's no one-size-fits-all approach to writing. What works for me might not work for you, and that's okay. The key is to experiment and find what helps you create your best work."
-        }
-      ],
-      "author": {
-        "name": "Shane Almae E. Herrera",
-        "role": "Writer & Creative",
-        "avatar": "/images/shane-avatar.jpg"
-      }
-    },
-    {
-      "id": 3,
-      "slug": "life-lessons",
-      "title": "Life Lessons from My Grandmother's Kitchen",
-      "excerpt": "A heartfelt reflection on the wisdom and warmth I found in my grandmother's kitchen, and how these memories continue to shape my life and writing.",
-      "featured": false,
-      "date": "2025-04-22",
-      "readTime": 9,
-      "category": "Life Stories",
-      "coverImage": "/images/blog/grandmother-kitchen-cover.jpg",
-      "gallery": [
-        "/images/blog/grandmother-kitchen-1.jpg",
-        "/images/blog/grandmother-kitchen-2.jpg",
-        "/images/blog/grandmother-kitchen-3.jpg"
-      ],
-      "content": [
-        {
-          "type": "paragraph",
-          "text": "My grandmother's kitchen was more than just a place where meals were prepared. It was a sanctuary of stories, wisdom, and love. The scent of freshly baked bread and simmering stews still brings back memories of the lessons I learned there."
-        },
-        {
-          "type": "image",
-          "src": "/images/blog/grandmother-kitchen-1.jpg",
-          "alt": "Grandmother's kitchen",
-          "caption": "The heart of our home, where stories were shared and lessons were learned"
-        },
-        {
-          "type": "paragraph",
-          "text": "One of my earliest memories is sitting at the kitchen table, watching my grandmother knead dough while she told stories about her childhood. She taught me that cooking, like writing, requires patience, attention to detail, and a dash of creativity."
-        },
-        {
-          "type": "quote",
-          "text": "Life, like cooking, is about finding the right balance of ingredients.",
-          "author": "My Grandmother"
-        },
-        {
-          "type": "paragraph",
-          "text": "These kitchen conversations shaped not only my love for storytelling but also my understanding of family, tradition, and the importance of passing down knowledge through generations."
-        }
-      ],
-      "author": {
-        "name": "Shane Almae E. Herrera",
-        "role": "Writer & Creative",
-        "avatar": "/images/shane-avatar.jpg"
-      }
-    },
-    {
-      "id": 4,
-      "slug": "writing-routine",
-      "title": "Building a Writing Routine That Works for You",
-      "excerpt": "Learn how I developed a sustainable writing routine that balances creativity with daily life, and how you can create your own personalized approach.",
-      "featured": false,
-      "date": "2025-04-18",
-      "readTime": 6,
-      "category": "Creative Writing",
-      "coverImage": "/images/blog/writing-routine-cover.jpg",
-      "gallery": [
-        "/images/blog/writing-routine-1.jpg",
-        "/images/blog/writing-routine-2.jpg",
-        "/images/blog/writing-routine-3.jpg"
-      ],
-      "content": [
-        {
-          "type": "paragraph",
-          "text": "Creating a writing routine that works for you is essential for consistent creative output. Here's how I developed mine:"
-        },
-        {
-          "type": "list",
-          "items": [
-            "Identify your most productive time of day",
-            "Create a dedicated writing space",
-            "Set realistic writing goals",
-            "Eliminate distractions",
-            "Track your progress",
-            "Be flexible and kind to yourself"
-          ]
-        },
-        {
-          "type": "image",
-          "src": "/images/blog/writing-routine-1.jpg",
-          "alt": "My writing desk",
-          "caption": "My writing space, designed for maximum creativity"
-        },
-        {
-          "type": "paragraph",
-          "text": "Remember, your writing routine should serve you, not the other way around. Don't be afraid to adjust it as your life and needs change."
-        }
-      ],
-      "author": {
-        "name": "Shane Almae E. Herrera",
-        "role": "Writer & Creative",
-        "avatar": "/images/shane-avatar.jpg"
-      }
-    },
-    {
-      "id": 5,
-      "slug": "finding-inspiration",
-      "title": "Finding Inspiration in Everyday Moments",
-      "excerpt": "Explore how ordinary moments can become extraordinary sources of inspiration for your writing and creative expression.",
-      "featured": false,
-      "date": "2025-04-15",
-      "readTime": 7,
-      "category": "Inspiration",
-      "coverImage": "/images/blog/inspiration-cover.jpg",
-      "gallery": [
-        "/images/blog/inspiration-1.jpg",
-        "/images/blog/inspiration-2.jpg",
-        "/images/blog/inspiration-3.jpg"
-      ],
-      "content": [
-        {
-          "type": "paragraph",
-          "text": "Inspiration is all around us, often hiding in plain sight. The key is learning to see the extraordinary in the ordinary."
-        },
-        {
-          "type": "image",
-          "src": "/images/blog/inspiration-1.jpg",
-          "alt": "Morning coffee ritual",
-          "caption": "My morning coffee ritual - a daily source of inspiration"
-        },
-        {
-          "type": "paragraph",
-          "text": "I find inspiration in the smallest moments: the way sunlight filters through leaves, the sound of rain on my window, or the conversations I overhear in coffee shops. These everyday experiences often become the seeds of my stories."
-        },
-        {
-          "type": "quote",
-          "text": "The world is full of poetry. The air is living with its spirit.",
-          "author": "James Gates Percival"
-        },
-        {
-          "type": "paragraph",
-          "text": "By staying present and observant, we can find endless inspiration in our daily lives. The challenge is to capture these moments before they slip away."
-        }
-      ],
-      "author": {
-        "name": "Shane Almae E. Herrera",
-        "role": "Writer & Creative",
-        "avatar": "/images/shane-avatar.jpg"
-      }
-    },
-    {
-      "id": 6,
-      "slug": "personal-growth",
-      "title": "The Power of Journaling for Personal Growth",
-      "excerpt": "Discover how journaling has helped me navigate life's challenges and celebrate its joys, with practical tips for starting your own journaling practice.",
-      "featured": false,
-      "date": "2025-04-10",
-      "readTime": 10,
-      "category": "Personal Growth",
-      "coverImage": "/images/blog/journaling-cover.jpg",
-      "gallery": [
-        "/images/blog/journaling-1.jpg",
-        "/images/blog/journaling-2.jpg",
-        "/images/blog/journaling-3.jpg"
-      ],
-      "content": [
-        {
-          "type": "paragraph",
-          "text": "Journaling has been my constant companion through life's ups and downs. It's a practice that has helped me grow, heal, and understand myself better."
-        },
-        {
-          "type": "image",
-          "src": "/images/blog/journaling-1.jpg",
-          "alt": "My journal collection",
-          "caption": "My collection of journals, each one telling a different chapter of my story"
-        },
-        {
-          "type": "paragraph",
-          "text": "Through journaling, I've learned to:"
-        },
-        {
-          "type": "list",
-          "items": [
-            "Process emotions and experiences",
-            "Track personal growth and patterns",
-            "Generate new ideas and insights",
-            "Practice gratitude",
-            "Set and achieve goals",
-            "Develop self-awareness"
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Whether you're new to journaling or looking to deepen your practice, remember that there's no right or wrong way to do it. The most important thing is to show up and be honest with yourself."
-        }
-      ],
-      "author": {
-        "name": "Shane Almae E. Herrera",
-        "role": "Writer & Creative",
-        "avatar": "/images/shane-avatar.jpg"
-      }
-    },
-    {
-      "id": 7,
-      "slug": "creative-process",
-      "title": "My Creative Process: From Idea to Finished Piece",
-      "excerpt": "A behind-the-scenes look at how I develop my writing from initial inspiration to final draft, including the tools and techniques that help me along the way.",
-      "featured": false,
-      "date": "2025-04-05",
-      "readTime": 8,
-      "category": "Creative Writing",
-      "coverImage": "/images/blog/creative-process-cover.jpg",
-      "gallery": [
-        "/images/blog/creative-process-1.jpg",
-        "/images/blog/creative-process-2.jpg",
-        "/images/blog/creative-process-3.jpg"
-      ],
-      "content": [
-        {
-          "type": "paragraph",
-          "text": "Every writer has their own creative process. Here's a glimpse into mine:"
-        },
-        {
-          "type": "list",
-          "items": [
-            "Capture ideas in my notebook",
-            "Research and gather inspiration",
-            "Create a rough outline",
-            "Write the first draft freely",
-            "Take a break before editing",
-            "Revise and refine",
-            "Get feedback from trusted readers",
-            "Final polish and proofread"
-          ]
-        },
-        {
-          "type": "image",
-          "src": "/images/blog/creative-process-1.jpg",
-          "alt": "My writing tools",
-          "caption": "The tools that help bring my ideas to life"
-        },
-        {
-          "type": "paragraph",
-          "text": "Remember that your creative process will evolve over time. What matters is finding what works for you and being open to trying new approaches."
-        }
-      ],
-      "author": {
-        "name": "Shane Almae E. Herrera",
-        "role": "Writer & Creative",
-        "avatar": "/images/shane-avatar.jpg"
-      }
-    },
-    {
-      "id": 8,
-      "slug": "life-story",
-      "title": "The Day I Found My Passion for Writing",
-      "excerpt": "A personal story about the moment I discovered my love for writing and how it changed the course of my life.",
-      "featured": false,
-      "date": "2025-04-02",
-      "readTime": 9,
-      "category": "Life Stories",
-      "coverImage": "/images/blog/passion-story-cover.jpg",
-      "gallery": [
-        "/images/blog/passion-story-1.jpg",
-        "/images/blog/passion-story-2.jpg",
-        "/images/blog/passion-story-3.jpg"
-      ],
-      "content": [
-        {
-          "type": "paragraph",
-          "text": "I remember the exact moment I fell in love with writing. It was a rainy afternoon, and I was sitting in my high school English class. Our teacher had given us a creative writing assignment, and for the first time, I felt truly free to express myself."
-        },
-        {
-          "type": "image",
-          "src": "/images/blog/passion-story-1.jpg",
-          "alt": "My first writing award",
-          "caption": "The moment that changed everything"
-        },
-        {
-          "type": "paragraph",
-          "text": "That assignment turned into a passion that has shaped my life. Writing became my way of making sense of the world, of connecting with others, and of discovering who I am."
-        },
-        {
-          "type": "quote",
-          "text": "Writing is the painting of the voice.",
-          "author": "Voltaire"
-        },
-        {
-          "type": "paragraph",
-          "text": "Looking back, I'm grateful for that rainy afternoon and the teacher who saw something in my words that I hadn't yet discovered in myself."
-        }
-      ],
-      "author": {
-        "name": "Shane Almae E. Herrera",
-        "role": "Writer & Creative",
-        "avatar": "/images/shane-avatar.jpg"
-      }
-    },
-    {
-      "id": 9,
-      "slug": "writing-community",
-      "title": "Building a Supportive Writing Community",
-      "excerpt": "Learn how connecting with other writers has enriched my creative journey and how you can find or build your own writing community.",
-      "featured": false,
-      "date": "2025-03-28",
-      "readTime": 7,
-      "category": "Personal Growth",
-      "coverImage": "/images/blog/writing-community-cover.jpg",
-      "gallery": [
-        "/images/blog/writing-community-1.jpg",
-        "/images/blog/writing-community-2.jpg",
-        "/images/blog/writing-community-3.jpg"
-      ],
-      "content": [
-        {
-          "type": "paragraph",
-          "text": "Writing can be a solitary pursuit, but it doesn't have to be lonely. Building a supportive writing community has been one of the most rewarding aspects of my creative journey."
-        },
-        {
-          "type": "image",
-          "src": "/images/blog/writing-community-1.jpg",
-          "alt": "Writing group meeting",
-          "caption": "Our monthly writing group meeting"
-        },
-        {
-          "type": "paragraph",
-          "text": "Here are some ways to find or build your writing community:"
-        },
-        {
-          "type": "list",
-          "items": [
-            "Join local writing groups",
-            "Participate in online writing communities",
-            "Attend writing workshops and conferences",
-            "Start your own writing group",
-            "Connect with writers on social media",
-            "Share your work and give feedback to others"
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "A supportive writing community can provide encouragement, feedback, and accountability - all essential elements for growth as a writer."
-        }
-      ],
-      "author": {
-        "name": "Shane Almae E. Herrera",
-        "role": "Writer & Creative",
-        "avatar": "/images/shane-avatar.jpg"
-      }
-    },
-    {
-      "id": 10,
-      "slug": "creative-inspiration",
-      "title": "Finding Creative Inspiration in Nature",
-      "excerpt": "Discover how connecting with nature has become an essential part of my creative process and how it can inspire your own writing.",
-      "featured": false,
-      "date": "2025-03-25",
-      "readTime": 8,
-      "category": "Inspiration",
-      "coverImage": "/images/blog/nature-inspiration-cover.jpg",
-      "gallery": [
-        "/images/blog/nature-inspiration-1.jpg",
-        "/images/blog/nature-inspiration-2.jpg",
-        "/images/blog/nature-inspiration-3.jpg"
-      ],
-      "content": [
-        {
-          "type": "paragraph",
-          "text": "Nature has always been my greatest muse. There's something about being surrounded by trees, listening to birdsong, or watching the waves that unlocks my creativity."
-        },
-        {
-          "type": "image",
-          "src": "/images/blog/nature-inspiration-1.jpg",
-          "alt": "Writing in nature",
-          "caption": "My favorite spot for writing and reflection"
-        },
-        {
-          "type": "paragraph",
-          "text": "When I'm feeling stuck or uninspired, I know it's time to step outside. Whether it's a walk in the park or a weekend camping trip, nature has a way of clearing my mind and sparking new ideas."
-        },
-        {
-          "type": "quote",
-          "text": "In nature, nothing is perfect and everything is perfect.",
-          "author": "Alice Walker"
-        },
-        {
-          "type": "paragraph",
-          "text": "I encourage every writer to spend time in nature. You might be surprised by the stories and ideas that emerge when you're surrounded by the beauty of the natural world."
-        }
-      ],
-      "author": {
-        "name": "Shane Almae E. Herrera",
-        "role": "Writer & Creative",
-        "avatar": "/images/shane-avatar.jpg"
-      }
-    },
-    {
-      "id": 11,
-      "slug": "writing-challenges",
-      "title": "Overcoming Common Writing Challenges",
-      "excerpt": "Practical advice for dealing with writer's block, self-doubt, and other common challenges that writers face.",
-      "featured": false,
-      "date": "2025-03-20",
-      "readTime": 6,
-      "category": "Creative Writing",
-      "coverImage": "/images/blog/writing-challenges-cover.jpg",
-      "gallery": [
-        "/images/blog/writing-challenges-1.jpg",
-        "/images/blog/writing-challenges-2.jpg",
-        "/images/blog/writing-challenges-3.jpg"
-      ],
-      "content": [
-        {
-          "type": "paragraph",
-          "text": "Every writer faces challenges. Here's how I've learned to overcome some of the most common ones:"
-        },
-        {
-          "type": "list",
-          "items": [
-            "Writer's block: Take a break, change your environment, or try free writing",
-            "Self-doubt: Remember why you started writing in the first place",
-            "Perfectionism: Allow yourself to write badly first",
-            "Time management: Set realistic goals and stick to them",
-            "Criticism: Learn to separate constructive feedback from negativity",
-            "Comparison: Focus on your unique voice and journey"
-          ]
-        },
-        {
-          "type": "image",
-          "src": "/images/blog/writing-challenges-1.jpg",
-          "alt": "Overcoming challenges",
-          "caption": "My collection of writing tools and resources"
-        },
-        {
-          "type": "paragraph",
-          "text": "Remember that challenges are part of the writing journey. Each one you overcome makes you a stronger, more resilient writer."
-        }
-      ],
-      "author": {
-        "name": "Shane Almae E. Herrera",
-        "role": "Writer & Creative",
-        "avatar": "/images/shane-avatar.jpg"
-      }
-    },
-    {
-      "id": 12,
-      "slug": "personal-reflection",
-      "title": "The Power of Personal Reflection in Writing",
-      "excerpt": "Explore how personal reflection has deepened my writing practice and helped me connect more authentically with my readers.",
-      "featured": false,
-      "date": "2025-03-15",
-      "readTime": 7,
-      "category": "Personal Growth",
-      "coverImage": "/images/blog/reflection-cover.jpg",
-      "gallery": [
-        "/images/blog/reflection-1.jpg",
-        "/images/blog/reflection-2.jpg",
-        "/images/blog/reflection-3.jpg"
-      ],
-      "content": [
-        {
-          "type": "paragraph",
-          "text": "Personal reflection has been the key to developing my authentic voice as a writer. By taking time to reflect on my experiences, thoughts, and emotions, I've been able to create more meaningful and relatable content."
-        },
-        {
-          "type": "image",
-          "src": "/images/blog/reflection-1.jpg",
-          "alt": "Reflection journal",
-          "caption": "My reflection journal, where I process thoughts and ideas"
-        },
-        {
-          "type": "paragraph",
-          "text": "Here are some reflection practices that have helped me:"
-        },
-        {
-          "type": "list",
-          "items": [
-            "Daily journaling",
-            "Meditation and mindfulness",
-            "Regular writing retreats",
-            "Conversations with other writers",
-            "Reading and analyzing other writers' work",
-            "Setting aside dedicated reflection time"
-          ]
-        },
-        {
-          "type": "paragraph",
-          "text": "Through reflection, I've learned that the most powerful writing comes from a place of authenticity and self-awareness."
-        }
-      ],
-      "author": {
-        "name": "Shane Almae E. Herrera",
-        "role": "Writer & Creative",
-        "avatar": "/images/shane-avatar.jpg"
-      }
+    ],
+    "author": {
+      "name": "Shane Almae E. Herrera",
+      "role": "Writer & Creative",
+      "avatar": "/images/shane-avatar.jpg"
     }
-  ]
+  },
+  {
+    "id": 14,
+    "slug": "sbma-learning-experience",
+    "title": "A Day at SBMA: Communication and Maritime Management Insights",
+    "excerpt": "Exploring the intricate operations of SBMA's Law Enforcement and Seaport Departments, and how technology shapes modern security and maritime management.",
+    "featured": false,
+    "date": "2025-04-08",
+    "readTime": 9,
+    "category": "Technology",
+    "coverImage": "/images/blog/sbma-cover.jpg",
+    "gallery": [
+      "/images/blog/sbma-1.jpg",
+      "/images/blog/sbma-2.jpg",
+      "/images/blog/sbma-3.jpg"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "After an early breakfast at DJM Dormitory, our group headed to Subic, Olongapo for what would prove to be a fascinating day of learning about communication technologies and maritime management systems. As information technology students, these real-world applications of the concepts we've studied in classrooms provided invaluable context."
+      },
+      {
+        "type": "paragraph",
+        "text": "Our first stop was the SBMA Law Enforcement Department's Communication Branch. What struck me immediately was the sophisticated integration of various technologies to create a seamless communication network. The department's representatives explained how they've evolved from traditional radio systems to advanced digital platforms that allow for instant coordination across different units."
+      },
+      {
+        "type": "image",
+        "src": "/images/blog/sbma-1.jpg",
+        "alt": "SBMA Communication Center",
+        "caption": "The heart of SBMA's communication operations, where technology meets security"
+      },
+      {
+        "type": "paragraph",
+        "text": "The afternoon brought us to the SBMA Seaport Department, where we were introduced to their Vessel Traffic Management System. As someone who appreciates the poetry in efficient systems, I found the orchestration of maritime traffic truly beautiful to witness. The integration of radar technology, GPS tracking, and real-time data analytics has transformed what was once a manual process into a precise digital symphony."
+      },
+      {
+        "type": "quote",
+        "text": "Technology at its best doesn't replace human intuition—it amplifies it.",
+        "author": "SBMA Port Operations Manager"
+      },
+      {
+        "type": "paragraph",
+        "text": "What fascinated me most was learning about how these systems had to be adapted to the unique geographical and operational contexts of Subic Bay. It reminded me that technology is never one-size-fits-all—successful implementation requires deep understanding of local needs and constraints."
+      },
+      {
+        "type": "image",
+        "src": "/images/blog/sbma-2.jpg",
+        "alt": "Vessel Traffic Management display",
+        "caption": "Monitoring vessel movements in real-time through integrated digital systems"
+      },
+      {
+        "type": "paragraph",
+        "text": "The tour of the SBMA base and the Duty Free Shopping experience that followed provided a welcome break from the technical aspects of our visit. Yet even here, I noticed the subtle technological touches that enhanced the shopping experience—from inventory management systems to security measures."
+      },
+      {
+        "type": "paragraph",
+        "text": "As we returned to the dormitory for dinner, I found myself reflecting on how technology serves as both the visible and invisible infrastructure of modern life. Today's experiences have deepened my appreciation for the role we as IT professionals will play in building and maintaining these crucial systems that keep our ports safe and our communication lines open."
+      }
+    ],
+    "author": {
+      "name": "Shane Almae E. Herrera",
+      "role": "Writer & Creative",
+      "avatar": "/images/shane-avatar.jpg"
+    }
+  },
+  {
+    "id": 15,
+    "slug": "museums-and-history",
+    "title": "Museums and Memories: Where Technology Meets Heritage",
+    "excerpt": "Exploring the intersection of technology and cultural preservation at Museo ni Manuel Quezon and the National Museum of Natural History.",
+    "featured": false,
+    "date": "2025-04-09",
+    "readTime": 7,
+    "category": "Culture & Technology",
+    "coverImage": "/images/blog/museums-cover.jpg",
+    "gallery": [
+      "/images/blog/museums-1.jpg",
+      "/images/blog/museums-2.jpg",
+      "/images/blog/museums-3.jpg"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Today's journey took us through the corridors of Philippine history and natural heritage, offering a unique perspective on how technology serves not just the future, but also helps us preserve and understand our past. After breakfast, we proceeded to the Museo ni Manuel Quezon, where I was immediately struck by the thoughtful integration of digital displays alongside traditional exhibits."
+      },
+      {
+        "type": "image",
+        "src": "/images/blog/museums-1.jpg",
+        "alt": "Interactive display at Museo ni Manuel Quezon",
+        "caption": "Interactive touchscreens bringing President Quezon's speeches to life for modern audiences"
+      },
+      {
+        "type": "paragraph",
+        "text": "The museum has brilliantly employed interactive timelines, audio stations, and digital archives to make President Quezon's legacy accessible to younger generations. As I watched fellow students engage with these technologies, I realized how essential these digital tools have become in storytelling and education. The preservation of Quezon's speeches through remastered audio recordings was particularly moving—technology bridging the gap between past voices and present ears."
+      },
+      {
+        "type": "quote",
+        "text": "In the silence of these halls, technology gives voice to our history.",
+        "author": "Shane Almae E. Herrera"
+      },
+      {
+        "type": "paragraph",
+        "text": "After lunch, we visited the National Museum of Natural History, where the marriage of technology and natural science created an even more immersive experience. The museum's biodiversity exhibits employed augmented reality to show extinct species in their natural habitats, while interactive climate models demonstrated environmental changes over time with striking visual clarity."
+      },
+      {
+        "type": "image",
+        "src": "/images/blog/museums-2.jpg",
+        "alt": "Natural History Museum exhibit",
+        "caption": "Advanced projection technology bringing ancient ecosystems to life"
+      },
+      {
+        "type": "paragraph",
+        "text": "What impressed me most was the museum's digital cataloging system, which the curator explained allows researchers worldwide to access the Philippines' natural history collections remotely. This democratization of knowledge through technology exemplifies how IT serves not just commercial or security purposes, but also advances cultural preservation and scientific discovery."
+      },
+      {
+        "type": "paragraph",
+        "text": "As we returned to our dormitory for dinner, I found myself contemplating the role of technology in cultural continuity. The digital tools we're learning to build and maintain as IT students aren't just about creating new experiences—they're also about ensuring that our history, our stories, and our natural heritage endure for generations to come. Today reminded me that as much as we look forward in technology, we must also remember to look back, using our skills to illuminate the path that brought us here."
+      }
+    ],
+    "author": {
+      "name": "Shane Almae E. Herrera",
+      "role": "Writer & Creative",
+      "avatar": "/images/shane-avatar.jpg"
+    }
+  },
+  {
+    "id": 16,
+    "slug": "banking-and-power",
+    "title": "The Backbone of Modern Society: Banking Systems and Power Infrastructure",
+    "excerpt": "Exploring the technological foundations that power our economy and energize our daily lives through visits to Bangko Sentral ng Pilipinas and HYTEC Power Inc.",
+    "featured": false,
+    "date": "2025-04-10",
+    "readTime": 8,
+    "category": "Technology",
+    "coverImage": "/images/blog/banking-power-cover.jpg",
+    "gallery": [
+      "/images/blog/banking-power-1.jpg",
+      "/images/blog/banking-power-2.jpg",
+      "/images/blog/banking-power-3.jpg"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Today offered us a glimpse into two fundamental systems that underpin modern society – banking and power generation. Our morning began with a visit to Bangko Sentral ng Pilipinas (BSP), where we were introduced to the sophisticated technological infrastructure that supports our nation's financial system."
+      },
+      {
+        "type": "paragraph",
+        "text": "Walking through the BSP facilities, I was struck by the multiple layers of security – both physical and digital – that protect our currency and financial data. The presentation on their cybersecurity measures was particularly enlightening, revealing how the central bank stays one step ahead of increasingly sophisticated threats."
+      },
+      {
+        "type": "image",
+        "src": "/images/blog/banking-power-1.jpg",
+        "alt": "BSP data center tour",
+        "caption": "Getting a rare glimpse into the technological heart of our financial system"
+      },
+      {
+        "type": "paragraph",
+        "text": "What fascinated me most was learning about the central bank's digital initiatives, including their research into central bank digital currencies (CBDCs). The balance they must maintain between innovation and stability reflects the broader challenges we face as technology professionals – how to embrace change while ensuring reliability and security."
+      },
+      {
+        "type": "quote",
+        "text": "The strength of a nation's currency is built on trust, and in the digital age, that trust is safeguarded by technology.",
+        "author": "BSP Technology Officer"
+      },
+      {
+        "type": "paragraph",
+        "text": "After lunch, we proceeded to Novaliches to visit HYTEC Power Inc. If the morning showed us how technology secures our wealth, the afternoon demonstrated how it generates and distributes the energy that powers our daily lives. The control room at HYTEC was a symphony of displays, each monitoring different aspects of the power generation and distribution network."
+      },
+      {
+        "type": "image",
+        "src": "/images/blog/banking-power-2.jpg",
+        "alt": "HYTEC Power control room",
+        "caption": "The digital nerve center monitoring power generation and distribution"
+      },
+      {
+        "type": "paragraph",
+        "text": "The engineers explained how artificial intelligence and predictive analytics are increasingly being employed to forecast demand, optimize power generation, and identify potential failures before they occur. As someone who has always taken electricity for granted, seeing firsthand the complex technological systems that ensure lights turn on at the flip of a switch was humbling."
+      },
+      {
+        "type": "paragraph",
+        "text": "Our day concluded with a visit to Trinoma Mall – itself a massive consumer of power and a hub of financial transactions. As I watched people shop, dine, and socialize, I couldn't help but see the mall in a new light, appreciating the invisible technological infrastructure that makes such spaces possible."
+      },
+      {
+        "type": "paragraph",
+        "text": "Back at the dormitory for dinner, I reflected on how today's experiences revealed the less glamorous but essential applications of information technology. While consumer applications often get the spotlight, it's these foundational systems in banking and power that truly showcase technology's transformative impact on society."
+      }
+    ],
+    "author": {
+      "name": "Shane Almae E. Herrera",
+      "role": "Writer & Creative",
+      "avatar": "/images/shane-avatar.jpg"
+    }
+  },
+  {
+    "id": 17,
+    "slug": "transportation-technology",
+    "title": "Moving Millions: The Technology Behind Modern Transportation Systems",
+    "excerpt": "Exploring how information technology is revolutionizing urban transportation through visits to the Light Rail Transit Authority and Traffic Engineering Center.",
+    "featured": false,
+    "date": "2025-04-11",
+    "readTime": 9,
+    "category": "Urban Technology",
+    "coverImage": "/images/blog/transportation-cover.jpg",
+    "gallery": [
+      "/images/blog/transportation-1.jpg",
+      "/images/blog/transportation-2.jpg",
+      "/images/blog/transportation-3.jpg"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Today our focus shifted to transportation technology, exploring the intricate systems that move millions of people through Metro Manila each day. Our group was divided into two buses – I was assigned to Bus A, which began its journey to the Light Rail Transit Authority-Line 2 after breakfast."
+      },
+      {
+        "type": "paragraph",
+        "text": "The LRTA headquarters offered a fascinating behind-the-scenes look at one of Metro Manila's lifelines. Beyond the trains and tracks visible to the public, we were introduced to the complex information systems that coordinate the entire operation. The control center resembled something from a science fiction movie – walls of monitors displaying real-time data on train positions, passenger loads, and system diagnostics."
+      },
+      {
+        "type": "image",
+        "src": "/images/blog/transportation-1.jpg",
+        "alt": "LRTA control center",
+        "caption": "The digital brain coordinating Metro Manila's light rail operations"
+      },
+      {
+        "type": "paragraph",
+        "text": "What struck me was how the LRTA has integrated multiple technologies – from traditional radio communications to modern Internet of Things (IoT) sensors and artificial intelligence – to create a hybrid system that prioritizes reliability above all. When you're moving thousands of people per hour, system downtime simply isn't an option."
+      },
+      {
+        "type": "quote",
+        "text": "Our success isn't measured by technological sophistication, but by trains that arrive on time and passengers who reach their destinations safely.",
+        "author": "LRTA Operations Manager"
+      },
+      {
+        "type": "paragraph",
+        "text": "After lunch, we visited the Traffic Engineering Center, where we saw another dimension of urban mobility management. If the LRTA showed us linear transportation on fixed routes, the TEC revealed the complexity of managing a dynamic, multi-variable system of vehicles moving through the city's arteries."
+      },
+      {
+        "type": "image",
+        "src": "/images/blog/transportation-2.jpg",
+        "alt": "Traffic management system",
+        "caption": "Real-time traffic flow analysis using computer vision and data analytics"
+      },
+      {
+        "type": "paragraph",
+        "text": "The engineers demonstrated how they're using computer vision to monitor traffic flow, machine learning to predict congestion patterns, and adaptive algorithms to optimize signal timing. What impressed me most was their candor about both the power and limitations of these technologies. While sophisticated models can suggest optimal traffic light patterns, they must still account for unexpected human behavior, weather conditions, and special events."
+      },
+      {
+        "type": "paragraph",
+        "text": "I was particularly intrigued by their pilot project integrating data from ride-sharing apps to gain broader insights into traffic patterns. This collaboration between private companies and public infrastructure managers points to a future where data sharing creates smarter, more responsive urban systems."
+      },
+      {
+        "type": "paragraph",
+        "text": "As we returned to the dormitory for dinner, the city's rush hour traffic became a living laboratory demonstrating the challenges we'd discussed. Looking out the bus window at the streams of vehicles, I saw not just cars and motorcycles, but data points in a vast, complex system that technology is slowly helping to optimize."
+      },
+      {
+        "type": "paragraph",
+        "text": "Today reinforced for me that information technology isn't just about creating new digital experiences – it's also about making existing physical systems work better for everyone. The transportation technologies we explored may not be as flashy as the latest smartphone apps, but their impact on daily life is immeasurably greater."
+      }
+    ],
+    "author": {
+      "name": "Shane Almae E. Herrera",
+      "role": "Writer & Creative",
+      "avatar": "/images/shane-avatar.jpg"
+    }
+  },
+  {
+    "id": 18,
+    "slug": "baguio-adventure",
+    "title": "The City of Pines: Finding Inspiration in Baguio's Natural and Cultural Landscape",
+    "excerpt": "Journeying to the summer capital of the Philippines and exploring its unique blend of natural beauty, cultural heritage, and educational institutions.",
+    "featured": false,
+    "date": "2025-04-12",
+    "readTime": 10,
+    "category": "Travel",
+    "coverImage": "/images/blog/baguio-cover.jpg",
+    "gallery": [
+      "/images/blog/baguio-1.jpg",
+      "/images/blog/baguio-2.jpg",
+      "/images/blog/baguio-3.jpg"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Our journey took an exciting turn today as we departed Manila in the early hours of the morning, heading north to the City of Pines – Baguio. The anticipation built as our bus climbed higher into the mountains, the air growing noticeably cooler and fresher with each winding turn of the road."
+      },
+      {
+        "type": "paragraph",
+        "text": "Arriving in Baguio around 6:30 AM, I was immediately struck by the distinct character of the city. Unlike the humid bustle of Manila, Baguio welcomed us with crisp mountain air and a more relaxed pace. Though still very much a city, the integration of pine trees and natural landscapes throughout the urban environment creates a harmonious balance between development and nature."
+      },
+      {
+        "type": "image",
+        "src": "/images/blog/baguio-1.jpg",
+        "alt": "Morning view of Baguio",
+        "caption": "The morning mist lifting over the City of Pines as we arrived"
+      },
+      {
+        "type": "paragraph",
+        "text": "Our Baguio adventure began at the Strawberry Farm, where technology meets agriculture in fascinating ways. I was particularly interested to learn about the smart irrigation systems and climate monitoring technologies that have helped optimize strawberry production in this unique microclimate. As a writer whose work often explores the relationship between technology and nature, seeing this harmonious integration firsthand was inspiring."
+      },
+      {
+        "type": "paragraph",
+        "text": "The Chinese Bell Church offered a cultural counterpoint to our tech-focused itinerary. The tranquil gardens and traditional architecture provided a space for reflection on how cultural heritage persists alongside technological advancement. I found myself contemplating how we might use our IT skills not just to build new systems, but also to preserve and share cultural traditions."
+      },
+      {
+        "type": "image",
+        "src": "/images/blog/baguio-2.jpg",
+        "alt": "Chinese Bell Church gardens",
+        "caption": "Finding moments of peace and reflection at the Chinese Bell Church"
+      },
+      {
+        "type": "paragraph",
+        "text": "Our visit to the Philippine Military Academy was particularly interesting from a technological perspective. While we weren't there primarily to study their IT systems, I was fascinated by glimpses of how military training has incorporated simulation technologies, advanced communications systems, and data analytics to prepare cadets for modern defense challenges."
+      },
+      {
+        "type": "quote",
+        "text": "Technology changes the how of what we do, but the why – our values and purpose – must remain our compass.",
+        "author": "PMA Officer during our tour"
+      },
+      {
+        "type": "paragraph",
+        "text": "After checking in at the Prince Plaza Hotel and enjoying lunch, our Baguio tour continued with visits to iconic sites including Mines View Park, Wright Park, The Mansion House, and Burnham Park. At each location, I found myself noticing how technology has been subtly integrated – from QR-coded information plaques to smart urban features – while still preserving the natural beauty and historical character that makes Baguio special."
+      },
+      {
+        "type": "image",
+        "src": "/images/blog/baguio-3.jpg",
+        "alt": "Burnham Park lake",
+        "caption": "The serene beauty of Burnham Park, a perfect blend of natural and designed landscape"
+      },
+      {
+        "type": "paragraph",
+        "text": "As we returned to the hotel for dinner and rest, I reflected on how Baguio offers a different model of technological integration than what we've seen in Manila. Rather than the highly visible, infrastructure-focused technology of the capital, Baguio seems to embrace more subtle, human-scale implementations that enhance rather than dominate the natural and cultural landscape."
+      },
+      {
+        "type": "paragraph",
+        "text": "Tomorrow will bring free time to explore more of this beautiful city, and I'm looking forward to discovering additional examples of how technology and tradition can coexist in harmony. Baguio's approach offers valuable lessons for us as future IT professionals about designing systems that serve people and places without overwhelming their essential character."
+      }
+    ],
+    "author": {
+      "name": "Shane Almae E. Herrera",
+      "role": "Writer & Creative",
+      "avatar": "/images/shane-avatar.jpg"
+    }
+  },
+  {
+    "id": 19,
+    "slug": "baguio-reflections",
+    "title": "Free Day in Baguio: Finding Creative Inspiration in the City of Pines",
+    "excerpt": "A day of personal exploration and reflection in Baguio City, discovering how this mountain haven nurtures creativity and offers lessons for aspiring technologists.",
+    "featured": false,
+    "date": "2025-04-13",
+    "readTime": 7,
+    "category": "Personal Growth",
+    "coverImage": "/images/blog/baguio-freetime-cover.jpg",
+    "gallery": [
+      "/images/blog/baguio-freetime-1.jpg",
+      "/images/blog/baguio-freetime-2.jpg",
+      "/images/blog/baguio-freetime-3.jpg"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "There's something magical about waking up to the cool mountain air of Baguio. After breakfast at Prince Plaza Hotel, we were given free hours to explore the city on our own – a welcome opportunity to process everything we've learned and experienced so far on this educational journey."
+      },
+      {
+        "type": "paragraph",
+        "text": "I decided to begin my free time with a morning walk around the hotel area, journal in hand. As a writer, I find that physical movement often helps untangle my thoughts, and Baguio's scenic paths provided the perfect backdrop for reflection. The past week has been a whirlwind of technological education – from maritime management systems to power grids to transportation networks – and I needed time to synthesize these experiences."
+      },
+      {
+        "type": "image",
+        "src": "/images/blog/baguio-freetime-1.jpg",
+        "alt": "Morning journaling spot",
+        "caption": "Finding a quiet corner to reflect on our journey through technology and culture"
+      },
+      {
+        "type": "paragraph",
+        "text": "Mid-morning found me exploring Maharlika Shopping Center, where I was struck by the contrast between this local market and the high-tech malls of Manila. Yet even here, technology had found its place – vendors using mobile payment systems, social media marketing for traditional crafts, and the occasional integration of digital displays among the colorful market stalls."
+      },
+      {
+        "type": "quote",
+        "text": "Technology at its best doesn't replace culture; it creates new avenues for cultural expression and preservation.",
+        "author": "Shane Almae E. Herrera"
+      },
+      {
+        "type": "paragraph",
+        "text": "Later, our group reconvened for lunch before heading to SM Baguio for Pasalubong shopping. The mall offered another perspective on how technology shapes retail experiences in different contexts. Unlike the purely functional systems we'd studied earlier in the week, here technology was employed to create experiences – from interactive displays to immersive cinema technologies."
+      },
+      {
+        "type": "image",
+        "src": "/images/blog/baguio-freetime-2.jpg",
+        "alt": "Local crafts and technology",
+        "caption": "Traditional Baguio crafts alongside modern technology – a metaphor for our changing world"
+      },
+      {
+        "type": "paragraph",
+        "text": "What struck me most during today's explorations was how Baguio has maintained its sense of place and cultural identity while selectively incorporating technological elements. As we prepare to return to Manila and eventually to Zamboanga, I find myself wondering how we might apply this balanced approach in our own communities."
+      },
+      {
+        "type": "paragraph",
+        "text": "As information technology students, we're often focused on the cutting edge – the newest, fastest, most advanced solutions. Yet Baguio reminds us that technology isn't always about disruption and transformation; sometimes it's about thoughtful integration and enhancement of what already exists and works well."
+      },
+      {
+        "type": "paragraph",
+        "text": "As we prepare for our return journey tomorrow, I'm carrying not just technical knowledge but also these broader reflections on how technology can serve humanity while respecting culture, tradition, and natural beauty. The cool pine-scented air of Baguio has cleared not just my lungs but also my thinking about the kind of IT professional I aspire to become."
+      }
+    ],
+    "author": {
+      "name": "Shane Almae E. Herrera",
+      "role": "Writer & Creative",
+      "avatar": "/images/shane-avatar.jpg"
+    }
+  }
+]
